@@ -7,7 +7,7 @@ Chart the course of the next technological era at one of our exclusive, one-day 
 Microsoft presented the Copilot stack as a visual guide designed to clarify and streamline the creation of your custom copilot, which offers intelligent natural language-driven experiences powered by large language models. Microsoft AI Tour presents unique sessions and workshops at every level of the Copilot Stack to provide developers end-to-end perspectives of the services Microsoft offers.
 
 <p align="center">
-  <img src="https://github.com/cole-g-johnson/aitour-master-wip/blob/main/assets/Copilot%20Stack.png" alt="drawing" width="400"/>
+  <img src="https://github.com/microsoft/aitour-repo-master-list/blob/main/assets/Copilot%20Stack.png" alt="drawing" width="400"/>
 </p>
 
 ## Microsoft AI Tour Sessions and Workshops
