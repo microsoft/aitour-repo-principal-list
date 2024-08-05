@@ -39,7 +39,7 @@ Microsoft AI Tour will feature seven tracks each split based on their position w
  - ####	[Developers guide to customizing Microsoft Copilot](https://github.com/microsoft/aitour-customizing-github-copilot)
  - ####	[Build and extend copilots with Copilot Studio](https://github.com/microsoft/aitour-building-copilots-with-copilot-studio)
 
-### Track 4: Intro to AI Orchestration, Tooling, and Foundation
+### Track 4: Introduction to AI Orchestration, Tooling, and Foundation
 
 -  ####	[Navigating AI transformation with Microsoft Learn](https://github.com/microsoft/aitour-navigating-ai-with-microsoft-learn)
 -  ####	[The foundation of generative AI in Azure](https://github.com/microsoft/aitour-generative-ai-in-azure)
