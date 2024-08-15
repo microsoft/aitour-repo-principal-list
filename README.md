@@ -12,7 +12,7 @@ Microsoft presented the Copilot stack as a visual guide designed to clarify and 
 
 ## Microsoft AI Tour Sessions and Workshops
 
-Microsoft AI Tour will feature seven tracks each split based on their position within the Copilot Stack. Below is a master list of all seven tracks and the content within each. Each individual session and workshop is hyperlinked to it's own GitHub repository where you can find more information. Additionally each piece of content is split between three categories based on the table below. 
+Microsoft AI Tour will feature seven tracks each split based on their position within the Copilot Stack. Below is a principal list of all seven tracks and the content within each. Each individual session and workshop is hyperlinked to it's own GitHub repository where you can find more information. Additionally each piece of content is split between three categories based on the table below. 
 
 <div align="center">
   
