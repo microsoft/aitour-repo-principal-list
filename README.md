@@ -64,7 +64,7 @@ Microsoft AI Tour will feature seven tracks each split based on their position w
 
 ### Track 5: Advanced: Taking AI Orchestration, Tooling, and Foundations to Production
 
-- #### 	[(DM) Measuring the business impact of intelligent apps](https://github.com/microsoft/aitour-buisness-impact-of-intelligent-apps)
+- #### 	[(DM) The business impact of intelligent apps](https://github.com/microsoft/aitour-buisness-impact-of-intelligent-apps)
 - #### 	[(TECH) Prompty, AI Studio and practical E2E development](https://github.com/microsoft/aitour-e2e-dev-with-prompty-and-ai-studio)
 - #### 	[(TECH) Code-first LLMOps from prototype to productionv](https://github.com/microsoft/aitour-llmops-with-gen-ai-tools)
 - #### 	[(TECH) Operationalize AI responsibly with Azure AI Studio](https://github.com/microsoft/aitour-operate-ai-responsibly-with-ai-studio)
