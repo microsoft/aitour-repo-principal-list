@@ -4,19 +4,25 @@
 
 # Microsoft AI Tour
 
-Update coming soon
+The Microsoft AI Tour kicks off on September 24, 2024, in Mexico City and spans over 60 cities around the world, from Sao Paulo to Johannesburg, Mumbai to Sydney, Seoul to Berlin, and many more. This free, one-day and in-person experience offers AI thought leadership, sessions to help build AI skills, hands-on workshops and connection opportunities designed to inspire attendees, while providing practical approaches for using the power of AI to improve productivity and deliver solutions that drive real impact for businesses. We’ll also showcase local customer and partner stories at each stop, which makes the AI Tour a great chance for attendees to deepen their connections with local peers.
 
 ## Microsoft AI Tour Sessions and Workshops
 
-Microsoft AI Tour will feature seven tracks each split based on their position within the Copilot Stack. Below is a principal list of all seven tracks and the content within each. Each individual session and workshop is hyperlinked to it's own GitHub repository where you can find more information. Additionally each piece of content is split between three categories based on the table below. 
+Whether you’re a senior business leader or a technical practitioner, you’ll find valuable insights and actionable solutions at the AI Tour events.
+
+For senior business leaders, we offer expert-led presentations into how to best leverage AI to solve complex problems and create lasting value. Plus, dive deep into how AI fits into the Microsoft roadmap, which will help attendees align their AI strategies with the latest technologies and best practices.
+
+For technical practitioners, we offer immersive workshops on the latest AI technologies, hands-on experience with Microsoft and partner experts, and a vibrant community ready to exchange ideas. We’ll also provide insight into the future of AI, helping attendees stay updated on the rapidly evolving tech landscape.
+
+Each individual session and workshop below is hyperlinked to it's own GitHub repository where you can find more information.
 
 <div align="center">
   
 | Content Type   |      Abbreviaton      |
 |----------|:-------------:|
-| Decision Maker |  DM |
-| Workshop |    WKSH   | 
-| Breakout | TECH |
+| Decision Maker Breakout Sessions |  DM |
+| Technical Breakout Sessions | TECH |
+| Workshops |    WKSH   | 
 
 </div>
 
