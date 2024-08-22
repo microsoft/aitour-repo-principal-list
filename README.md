@@ -8,7 +8,7 @@ The Microsoft AI Tour kicks off on September 24, 2024, in Mexico City and spans 
 
 This free, one-day and in-person experience offers AI thought leadership, sessions to help build AI skills, hands-on workshops, and connection opportunities designed to inspire attendees, while providing practical approaches for using the power of AI. We’ll also showcase local customer and partner stories at each stop.
 
-## Sessions and Workshops
+## Breakout Sessions and Workshops
 
 Whether you’re a senior business leader or a technical practitioner, you’ll find valuable insights and actionable solutions.
 
