@@ -30,61 +30,61 @@ Each individual session and workshop below is hyperlinked to it's own GitHub rep
 
 ### Track 1: Microsoft Copilot
 
-- #### [(DM) Unlock value and opportunity with Microsoft Copilot](https://github.com/microsoft/aitour-unlock-value-with-copilot)
-- #### [(DM) Customer fireside chat with local customers using Copilot](https://github.com/microsoft/aitour-customer-fireside-chat)
-- #### [(TECH) Copilot Implementation Essentials](https://github.com/microsoft/aitour-copilot-implementation-essentials)
-- #### [(WKSH) Data, security and compliance practices for Copilot](https://github.com/microsoft/aitour-copilot-security-practices)
+- #### [(DM) BRK310: Unlock value and opportunity with Microsoft Copilot](https://github.com/microsoft/aitour-unlock-value-with-copilot)
+- #### [(DM) BRK311: Customer fireside chat with local customers using Copilot](https://github.com/microsoft/aitour-customer-fireside-chat)
+- #### [(TECH) BRK410: Copilot Implementation Essentials](https://github.com/microsoft/aitour-copilot-implementation-essentials)
+- #### [(WKSH) WRK510: Data, security and compliance practices for Copilot](https://github.com/microsoft/aitour-copilot-security-practices)
 
 ### Track 2: AI Safety and Security
 
-- #### [(DM) Secure your future in the age of AI](https://github.com/microsoft/aitour-secure-future-in-ai-age)
-- #### [(TECH) Securing AI applications on Azure](https://github.com/microsoft/aitour-securing-ai-apps-on-azure)
-- #### [(TECH) Data security for AI](https://github.com/microsoft/aitour-data-security-for-ai)
-- #### [(TECH) GitHub Advanced Security: Securing your Workflow](https://github.com/microsoft/aitour-github-advanced-security-workflow)
-- #### [(TECH) Forging modern security with Copilot for Security​​](https://github.com/microsoft/aitour-cybersecurity-posture-with-copilot)
+- #### [(DM) BRK320: Secure your future in the age of AI](https://github.com/microsoft/aitour-secure-future-in-ai-age)
+- #### [(TECH) BRK420: Securing AI applications on Azure](https://github.com/microsoft/aitour-securing-ai-apps-on-azure)
+- #### [(TECH) BRK421: Data security for AI](https://github.com/microsoft/aitour-data-security-for-ai)
+- #### [(TECH) BRK422: GitHub Advanced Security: Securing your Workflow](https://github.com/microsoft/aitour-github-advanced-security-workflow)
+- #### [(TECH) BRK423: Forging modern security with Copilot for Security​​](https://github.com/microsoft/aitour-cybersecurity-posture-with-copilot)
 
 ### Track 3: Copilot Extensibility
 
- - ####	[(DM) Accelerating innovation with AI and Low Code](https://github.com/microsoft/aitour-ai-and-low-code-innovation)
- - ####	[(DM) Applying the functional blueprint to transform your business](https://github.com/microsoft/aitour-blueprint-to-transform-business)
- - ####	[(TECH) Build and customize copilots with Copilot Studio](https://github.com/microsoft/aitour-building-copilots-with-copilot-studio)
- - ####	[(TECH) Essential prompting for GitHub Copilot in VS Code](https://github.com/microsoft/aitour-github-copilot-can-do-that)
- - ####	[(TECH) Advanced Coding: Visual Studio & GitHub Copilot](https://github.com/microsoft/aitour-coding-mastery-with-github-copilot)
- - ####	[(TECH) Developers guide to customizing Microsoft Copilot](https://github.com/microsoft/aitour-customizing-github-copilot)
- - ####	[(WKSH) Build and extend copilots with Copilot Studio](https://github.com/microsoft/aitour-building-copilots-with-copilot-studio)
+ - ####	[(DM) BRK330: Innovate with AI and Low Code: Power Platform](https://github.com/microsoft/aitour-ai-and-low-code-innovation)
+ - ####	[(DM) BRK331:Applying the functional blueprint to transform your business](https://github.com/microsoft/aitour-blueprint-to-transform-business)
+ - ####	[(TECH) BRK430: Build and customize copilots with Copilot Studio](https://github.com/microsoft/aitour-building-copilots-with-copilot-studio)
+ - ####	[(TECH) BRK431: Essential prompting for GitHub Copilot in VS Code](https://github.com/microsoft/aitour-github-copilot-can-do-that)
+ - ####	[(TECH) BRK432: Advanced Coding: Visual Studio & GitHub Copilot](https://github.com/microsoft/aitour-coding-mastery-with-github-copilot)
+ - ####	[(TECH) BRK433: Developers guide to customizing Microsoft Copilot](https://github.com/microsoft/aitour-customizing-github-copilot)
+ - ####	[(WKSH) WRK530: Build and extend copilots with Copilot Studio](https://github.com/microsoft/aitour-building-copilots-with-copilot-studio)
 
 ### Track 4: Introduction: AI Orchestration, Tooling, and Foundation
 
--  ####	[(DM) Navigating AI transformation with Microsoft Learn](https://github.com/microsoft/aitour-navigating-ai-with-microsoft-learn)
--  ####	[(TECH) The foundation of generative AI in Azure](https://github.com/microsoft/aitour-generative-ai-in-azure)
--  ####	[(TECH) From concept to creation with Azure AI Studio](https://github.com/microsoft/aitour-concept-to-creation-ai-studio)
--  ####	[(TECH) Infusing an eCommerce app with AI​](https://github.com/microsoft/aitour-ecommerce-app-with-ai)
--  ####	[(TECH) Intro to Azure OpenAI Assistants](https://github.com/microsoft/aitour-azure-openai-assistants)
--  ####	[(WKSH) Interacting with large language models](https://github.com/microsoft/aitour-interact-with-llms)
+-  ####	[(DM) BRK340: Navigating AI transformation with Microsoft Learn](https://github.com/microsoft/aitour-navigating-ai-with-microsoft-learn)
+-  ####	[(TECH) BRK440: The foundation of generative AI in Azure](https://github.com/microsoft/aitour-generative-ai-in-azure)
+-  ####	[(TECH) BRK441: From concept to creation with Azure AI Studio](https://github.com/microsoft/aitour-concept-to-creation-ai-studio)
+-  ####	[(TECH) BRK442: Infusing an eCommerce app with AI​](https://github.com/microsoft/aitour-ecommerce-app-with-ai)
+-  ####	[(TECH) BRK443: Intro to Azure OpenAI Assistants](https://github.com/microsoft/aitour-azure-openai-assistants)
+-  ####	[(WKSH) WRK540: Interacting with large language models](https://github.com/microsoft/aitour-interact-with-llms)
 
 ### Track 5: Advanced: Taking AI Orchestration, Tooling, and Foundations to Production
 
-- #### 	[(DM) The business impact of intelligent apps](https://github.com/microsoft/aitour-buisness-impact-of-intelligent-apps)
-- #### 	[(TECH) Prompty, AI Studio and practical E2E development](https://github.com/microsoft/aitour-e2e-dev-with-prompty-and-ai-studio)
-- #### 	[(TECH) Code-first LLMOps from prototype to productionv](https://github.com/microsoft/aitour-llmops-with-gen-ai-tools)
-- #### 	[(TECH) Operationalize AI responsibly with Azure AI Studio](https://github.com/microsoft/aitour-operate-ai-responsibly-with-ai-studio)
-- #### 	[(TECH) Explore cutting-edge models: LLMs, SLMs and more](https://github.com/microsoft/aitour-exploring-cutting-edge-models)
-- #### 	[(WKSH) Build a retail copilot code-first on Azure AI](https://github.com/microsoft/aitour-build-a-copilot-on-azure-ai)
-- #### 	[(WKSH) Build a multi-tasking assistant with Azure OpenAI](https://github.com/microsoft/aitour-writing-assistant-with-azure-openai)
+- #### 	[(DM) BRK 350: The business impact of intelligent apps](https://github.com/microsoft/aitour-buisness-impact-of-intelligent-apps)
+- #### 	[(TECH) BRK450: Prompty, AI Studio and practical E2E development](https://github.com/microsoft/aitour-e2e-dev-with-prompty-and-ai-studio)
+- #### 	[(TECH) BRK451: Code-first LLMOps from prototype to productionv](https://github.com/microsoft/aitour-llmops-with-gen-ai-tools)
+- #### 	[(TECH) BRK452: perationalize AI responsibly with Azure AI Studio](https://github.com/microsoft/aitour-operate-ai-responsibly-with-ai-studio)
+- #### 	[(TECH) BRK453: Explore cutting-edge models: LLMs, SLMs and more](https://github.com/microsoft/aitour-exploring-cutting-edge-models)
+- #### 	[(WKSH) WRK550: Build a retail copilot code-first on Azure AI](https://github.com/microsoft/aitour-build-a-copilot-on-azure-ai)
+- #### 	[(WKSH) WRK551: Build a multi-tasking assistant with Azure OpenAI](https://github.com/microsoft/aitour-writing-assistant-with-azure-openai)
 
 ### Track 6: Your Data
 
-- #### 	[(DM) Activate your data and analytics for AI innovation](https://github.com/microsoft/aitour-data-analytics-for-ai-innovation)
-- #### 	[(TECH) Microsoft Fabric: What's new and what's next](https://github.com/microsoft/aitour-whats-new-with-fabric)
-- #### 	[(TECH) Next gen AI apps with databases at scale anywhere](https://github.com/microsoft/aitour-ai-apps-with-scalable-database)
-- #### 	[(TECH) Microsoft Fabric: Reimagine Real-Time Intelligence](https://github.com/microsoft/aitour-reimagine-fabric-intelligence)
-- #### 	[(TECH) Production-ready RAG with Azure AI Search](https://github.com/microsoft/aitour-rag-with-ai-search)
-- #### 	[(WKSH) Microsoft Fabric: Start with Real-Time Intelligence](https://github.com/microsoft/aitour-get-started-with-fabric)
+- #### 	[(DM) BRK 360: Activate your data and analytics for AI innovation](https://github.com/microsoft/aitour-data-analytics-for-ai-innovation)
+- #### 	[(TECH) BRK460: Microsoft Fabric: What's new and what's next](https://github.com/microsoft/aitour-whats-new-with-fabric)
+- #### 	[(TECH) BRK461: Next gen AI apps with databases at scale anywhere](https://github.com/microsoft/aitour-ai-apps-with-scalable-database)
+- #### 	[(TECH) BRK462: Microsoft Fabric: Reimagine Real-Time Intelligence](https://github.com/microsoft/aitour-reimagine-fabric-intelligence)
+- #### 	[(TECH) BRK463: Production-ready RAG with Azure AI Search](https://github.com/microsoft/aitour-rag-with-ai-search)
+- #### 	[(WKSH) WRK560: Microsoft Fabric: Start with Real-Time Intelligence](https://github.com/microsoft/aitour-get-started-with-fabric)
 
 ### Track 7: AI Infrastructure
 
-- #### 	[(DM) Pave the path to AI-readiness with Azure](https://github.com/microsoft/aitour-ai-readiness-with-azure)
-- #### 	[(TECH) Leverage cloud native infra for intelligent apps](https://github.com/microsoft/aitour-cloud-native-apps-with-azure-ai-and-aks)
-- #### 	[(TECH) Leverage AI for infrastructure management](https://github.com/microsoft/aitour-leveraging-ai-for-infrastructure-managaement)
-- #### 	[(TECH) Preparing for your organization's AI workloads​](https://github.com/microsoft/aitour-preparing-for-ai-workloads)
-- #### 	[(TECH) Optimizing your AI costs​](https://github.com/microsoft/aitour-opimizing-your-ai-costs)
+- #### 	[(DM) BRK370: Pave the path to AI-readiness with Azure](https://github.com/microsoft/aitour-ai-readiness-with-azure)
+- #### 	[(TECH) BRK470: Leverage cloud native infra for intelligent apps](https://github.com/microsoft/aitour-cloud-native-apps-with-azure-ai-and-aks)
+- #### 	[(TECH) BRK471: Leverage AI for infrastructure management](https://github.com/microsoft/aitour-leveraging-ai-for-infrastructure-managaement)
+- #### 	[(TECH) BRK472: Preparing for your organization's AI workloads​](https://github.com/microsoft/aitour-preparing-for-ai-workloads)
+- #### 	[(TECH) BRK473: Optimizing your AI costs​](https://github.com/microsoft/aitour-opimizing-your-ai-costs)
