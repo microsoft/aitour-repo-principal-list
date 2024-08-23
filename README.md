@@ -30,14 +30,14 @@ Each individual session and workshop below is hyperlinked to it's own GitHub rep
 
 ### Track 1: Microsoft Copilot
 
-- #### [(DM) BRK310: Unlock value and opportunity with Microsoft Copilot]
+- #### (DM) BRK310: Unlock value and opportunity with Microsoft Copilot
 - #### [(DM) BRK311: Customer fireside chat with local customers using Copilot](https://github.com/microsoft/aitour-customer-fireside-chat)
 - #### [(TECH) BRK410: Copilot Implementation Essentials](https://github.com/microsoft/aitour-copilot-implementation-essentials)
 - #### [(WKSH) WRK510: Data, security and compliance practices for Copilot](https://github.com/microsoft/aitour-copilot-security-practices)
 
 ### Track 2: AI Safety and Security
 
-- #### [(DM) BRK320: Secure your future in the age of AI]
+- #### (DM) BRK320: Secure your future in the age of AI
 - #### [(TECH) BRK420: Securing AI applications on Azure](https://github.com/microsoft/aitour-securing-ai-apps-on-azure)
 - #### [(TECH) BRK421: Data security for AI](https://github.com/microsoft/aitour-data-security-for-ai)
 - #### [(TECH) BRK422: GitHub Advanced Security: Securing your Workflow](https://github.com/microsoft/aitour-github-advanced-security-workflow)
@@ -45,7 +45,7 @@ Each individual session and workshop below is hyperlinked to it's own GitHub rep
 
 ### Track 3: Copilot Extensibility
 
- - ####	[(DM) BRK330: Innovate with AI and Low Code: Power Platform]
+ - ####	(DM) BRK330: Innovate with AI and Low Code: Power Platform
  - ####	[(DM) BRK331:Applying the functional blueprint to transform your business]
  - ####	[(TECH) BRK430: Build and customize copilots with Copilot Studio](https://github.com/microsoft/aitour-building-copilots-with-copilot-studio)
  - ####	[(TECH) BRK431: Essential prompting for GitHub Copilot in VS Code](https://github.com/microsoft/aitour-github-copilot-can-do-that)
