@@ -37,7 +37,7 @@ Each individual session and workshop below is hyperlinked to it's own GitHub rep
 
 ### Track 2: AI Safety and Security
 
-- #### [(DM) BRK320: Secure your future in the age of AI](https://github.com/microsoft/aitour-secure-future-in-ai-age)
+- #### [(DM) BRK320: Secure your future in the age of AI]
 - #### [(TECH) BRK420: Securing AI applications on Azure](https://github.com/microsoft/aitour-securing-ai-apps-on-azure)
 - #### [(TECH) BRK421: Data security for AI](https://github.com/microsoft/aitour-data-security-for-ai)
 - #### [(TECH) BRK422: GitHub Advanced Security: Securing your Workflow](https://github.com/microsoft/aitour-github-advanced-security-workflow)
@@ -45,8 +45,8 @@ Each individual session and workshop below is hyperlinked to it's own GitHub rep
 
 ### Track 3: Copilot Extensibility
 
- - ####	[(DM) BRK330: Innovate with AI and Low Code: Power Platform](https://github.com/microsoft/aitour-ai-and-low-code-innovation)
- - ####	[(DM) BRK331:Applying the functional blueprint to transform your business](https://github.com/microsoft/aitour-blueprint-to-transform-business)
+ - ####	[(DM) BRK330: Innovate with AI and Low Code: Power Platform]
+ - ####	[(DM) BRK331:Applying the functional blueprint to transform your business]
  - ####	[(TECH) BRK430: Build and customize copilots with Copilot Studio](https://github.com/microsoft/aitour-building-copilots-with-copilot-studio)
  - ####	[(TECH) BRK431: Essential prompting for GitHub Copilot in VS Code](https://github.com/microsoft/aitour-github-copilot-can-do-that)
  - ####	[(TECH) BRK432: Advanced Coding: Visual Studio & GitHub Copilot](https://github.com/microsoft/aitour-coding-mastery-with-github-copilot)
