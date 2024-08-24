@@ -34,8 +34,8 @@ Each individual session and workshop below is hyperlinked to it's own GitHub rep
 
 - #### (DM) BRK310: Unlock value and opportunity with Microsoft Copilot (Coming soon)
 - #### (DM) BRK311: Customer fireside chat with local customers using Copilot (Coming soon)
-- #### [(TECH) BRK410: Copilot Implementation Essentials](https://github.com/microsoft/aitour-copilot-implementation-essentials)
-- #### [(WKSH) WRK510: Data, security and compliance practices for Copilot](https://github.com/microsoft/aitour-copilot-security-practices)
+- #### [(TECH) BRK410: Copilot Implementation Essentials](https://github.com/microsoft/aitour-copilot-implementation-essentials) (Coming soon)
+- #### [(WKSH) WRK510: Data, security and compliance practices for Copilot](https://github.com/microsoft/aitour-copilot-security-practices) (Coming soon)
 
 ### Track 2: AI Safety and Security
 
@@ -50,17 +50,17 @@ Each individual session and workshop below is hyperlinked to it's own GitHub rep
  - ####	(DM) BRK330: Innovate with AI and Low Code: Power Platform (Coming soon)
  - ####	(DM) BRK331: Applying the functional blueprint to transform your business (Coming soon)
  - ####	[(TECH) BRK430: Build and customize copilots with Copilot Studio](https://github.com/microsoft/aitour-building-copilots-with-copilot-studio)
- - ####	[(TECH) BRK431: Essential prompting for GitHub Copilot in VS Code](https://github.com/microsoft/aitour-github-copilot-can-do-that)
+ - ####	[(TECH) BRK431: Essential prompting for GitHub Copilot in VS Code](https://github.com/microsoft/aitour-github-copilot-can-do-that) (Coming soon)
  - ####	[(TECH) BRK432: Advanced Coding: Visual Studio & GitHub Copilot](https://github.com/microsoft/aitour-coding-mastery-with-github-copilot)
- - ####	[(TECH) BRK433: Developers guide to customizing Microsoft Copilot](https://github.com/microsoft/aitour-customizing-github-copilot)
+ - ####	[(TECH) BRK433: Developers guide to customizing Microsoft Copilot](https://github.com/microsoft/aitour-customizing-github-copilot) (Coming soon)
  - ####	[(WKSH) WRK530: Build and extend copilots with Copilot Studio](https://github.com/microsoft/aitour-building-copilots-with-copilot-studio)
 
 ### Track 4: Introduction: AI Orchestration, Tooling, and Foundation
 
 -  ####	(DM) BRK340: Navigating AI transformation with Microsoft Learn (Coming soon)
 -  ####	[(TECH) BRK440: The foundation of generative AI in Azure](https://github.com/microsoft/aitour-generative-ai-in-azure)
--  ####	[(TECH) BRK441: From concept to creation with Azure AI Studio](https://github.com/microsoft/aitour-concept-to-creation-ai-studio)
--  ####	[(TECH) BRK442: Infusing an eCommerce app with AI​](https://github.com/microsoft/aitour-ecommerce-app-with-ai)
+-  ####	[(TECH) BRK441: From concept to creation with Azure AI Studio](https://github.com/microsoft/aitour-concept-to-creation-ai-studio) (Coming soon)
+-  ####	[(TECH) BRK442: Infusing an eCommerce app with AI​](https://github.com/microsoft/aitour-ecommerce-app-with-ai) (Coming soon)
 -  ####	[(TECH) BRK443: Intro to Azure OpenAI Assistants](https://github.com/microsoft/aitour-azure-openai-assistants)
 -  ####	[(WKSH) WRK540: Interacting with large language models](https://github.com/microsoft/aitour-interact-with-llms)
 
@@ -69,7 +69,7 @@ Each individual session and workshop below is hyperlinked to it's own GitHub rep
 - #### 	(DM) BRK 350: The business impact of intelligent apps (Coming soon)
 - #### 	[(TECH) BRK450: Prompty, AI Studio and practical E2E development](https://github.com/microsoft/aitour-e2e-dev-with-prompty-and-ai-studio)
 - #### 	[(TECH) BRK451: Code-first LLMOps from prototype to productionv](https://github.com/microsoft/aitour-llmops-with-gen-ai-tools)
-- #### 	[(TECH) BRK452: perationalize AI responsibly with Azure AI Studio](https://github.com/microsoft/aitour-operate-ai-responsibly-with-ai-studio)
+- #### 	[(TECH) BRK452: Operationalize AI responsibly with Azure AI Studio](https://github.com/microsoft/aitour-operate-ai-responsibly-with-ai-studio) (Coming soon)
 - #### 	[(TECH) BRK453: Explore cutting-edge models: LLMs, SLMs and more](https://github.com/microsoft/aitour-exploring-cutting-edge-models)
 - #### 	[(WKSH) WRK550: Build a retail copilot code-first on Azure AI](https://github.com/microsoft/aitour-build-a-copilot-on-azure-ai)
 - #### 	[(WKSH) WRK551: Build a multi-tasking assistant with Azure OpenAI](https://github.com/microsoft/aitour-writing-assistant-with-azure-openai)
@@ -78,11 +78,11 @@ Each individual session and workshop below is hyperlinked to it's own GitHub rep
 
 - #### 	(DM) BRK 360: Activate your data and analytics for AI innovation (Coming soon)
 - #### 	[(TECH) BRK460: Microsoft Fabric: What's new and what's next](https://github.com/microsoft/aitour-whats-new-with-fabric)
-- #### 	[(TECH) BRK461: Next gen AI apps with databases at scale anywhere](https://github.com/microsoft/aitour-ai-apps-with-scalable-database)
-- #### 	[(TECH) BRK462: Microsoft Fabric: Reimagine Real-Time Intelligence](https://github.com/microsoft/aitour-reimagine-fabric-intelligence)
+- #### 	[(TECH) BRK461: Next gen AI apps with databases at scale anywhere](https://github.com/microsoft/aitour-ai-apps-with-scalable-database) (Coming soon)
+- #### 	[(TECH) BRK462: Microsoft Fabric: Reimagine Real-Time Intelligence](https://github.com/microsoft/aitour-reimagine-fabric-intelligence) (Coming soon)
 - #### 	[(TECH) BRK463: Production-ready RAG with Azure AI Search](https://github.com/microsoft/aitour-rag-with-ai-search)
-- #### 	[(WKSH) WRK560: Microsoft Fabric: Start with Real-Time Intelligence](https://github.com/microsoft/aitour-get-started-with-fabric)
-
+- #### 	[(WKSH) WRK560: Microsoft Fabric: Start with Real-Time Intelligence](https://github.com/microsoft/aitour-get-started-with-fabric) (Coming soon)
+ 
 ### Track 7: AI Infrastructure
 
 - #### 	(DM) BRK370: Pave the path to AI-readiness with Azure (Coming soon)
