@@ -60,9 +60,9 @@ Each individual session and workshop below is hyperlinked to it's own GitHub rep
 -  ####	(DM) BRK340: Navigating AI transformation with Microsoft Learn (Coming soon)
 -  ####	[(TECH) BRK440: The foundation of generative AI in Azure](https://github.com/microsoft/aitour-generative-ai-in-azure)
 -  ####	[(TECH) BRK441: From concept to creation with Azure AI Studio](https://github.com/microsoft/aitour-concept-to-creation-ai-studio)
--  ####	[(TECH) BRK442: Infusing an eCommerce app with AI​](https://github.com/microsoft/aitour-ecommerce-app-with-ai) (Coming soon)
+-  ####	[(TECH) BRK442: Infusing an eCommerce app with AI​](https://github.com/microsoft/aitour-ecommerce-app-with-ai) 
 -  ####	[(TECH) BRK443: Intro to Azure OpenAI Assistants](https://github.com/microsoft/aitour-azure-openai-assistants)
--  ####	[(WKSH) WRK540: Interacting with large language models](https://github.com/microsoft/aitour-interact-with-llms)
+-  ####	[(WKSH) WRK540: Interacting with large language models](https://github.com/microsoft/aitour-interact-with-llms) (Coming soon)
 
 ### Track 5: Advanced: Taking AI Orchestration, Tooling, and Foundations to Production
 
@@ -78,7 +78,7 @@ Each individual session and workshop below is hyperlinked to it's own GitHub rep
 
 - #### 	(DM) BRK 360: Activate your data and analytics for AI innovation (Coming soon)
 - #### 	[(TECH) BRK460: Microsoft Fabric: What's new and what's next](https://github.com/microsoft/aitour-whats-new-with-fabric)
-- #### 	[(TECH) BRK461: Next gen AI apps with databases at scale anywhere](https://github.com/microsoft/aitour-ai-apps-with-scalable-database) (Coming soon)
+- #### 	[(TECH) BRK461: Next gen AI apps with databases at scale anywhere](https://github.com/microsoft/aitour-ai-apps-with-scalable-database)
 - #### 	[(TECH) BRK462: Microsoft Fabric: Reimagine Real-Time Intelligence](https://github.com/microsoft/aitour-reimagine-fabric-intelligence)
 - #### 	[(TECH) BRK463: Production-ready RAG with Azure AI Search](https://github.com/microsoft/aitour-rag-with-ai-search)
 - #### 	[(WKSH) WRK560: Microsoft Fabric: Start with Real-Time Intelligence](https://github.com/microsoft/aitour-get-started-with-fabric)
