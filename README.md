@@ -52,7 +52,7 @@ Each individual session and workshop below is hyperlinked to it's own GitHub rep
  - ####	[(TECH) BRK430: Build and customize copilots with Copilot Studio](https://github.com/microsoft/aitour-building-copilots-with-copilot-studio)
  - ####	[(TECH) BRK431: Essential prompting for GitHub Copilot in VS Code](https://github.com/microsoft/aitour-github-copilot-can-do-that) (Coming soon)
  - ####	[(TECH) BRK432: Advanced Coding: Visual Studio & GitHub Copilot](https://github.com/microsoft/aitour-coding-mastery-with-github-copilot)
- - ####	[(TECH) BRK433: Developers guide to customizing Microsoft Copilot](https://github.com/microsoft/aitour-customizing-github-copilot)
+ - ####	[(TECH) BRK433: Developers guide to customizing Microsoft Copilot](https://github.com/microsoft/aitour-customizing-microsoft-copilot)
  - ####	[(WKSH) WRK530: Build and extend copilots with Copilot Studio](https://github.com/microsoft/aitour-building-copilots-with-copilot-studio)
 
 ### Track 4: Introduction: AI Orchestration, Tooling, and Foundation
