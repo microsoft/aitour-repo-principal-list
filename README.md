@@ -34,8 +34,8 @@ Each individual session and workshop below is hyperlinked to it's own GitHub rep
 
 - #### (DM) BRK310: Unlock value and opportunity with Microsoft Copilot (Coming soon)
 - #### (DM) BRK311: Customer fireside chat with local customers using Copilot (Coming soon)
-- #### [(TECH) BRK410: Copilot Implementation Essentials](https://github.com/microsoft/aitour-copilot-implementation-essentials) (Coming soon)
-- #### [(WKSH) WRK510: Data, security and compliance practices for Copilot](https://github.com/microsoft/aitour-copilot-security-practices) (Coming soon)
+- #### [(TECH) BRK410: Copilot Implementation Essentials](https://github.com/microsoft/aitour-copilot-implementation-essentials)
+- #### [(WKSH) WRK510: Data, security and compliance practices for Copilot](https://github.com/microsoft/aitour-copilot-security-practices)
 
 ### Track 2: AI Safety and Security
 
@@ -62,7 +62,7 @@ Each individual session and workshop below is hyperlinked to it's own GitHub rep
 -  ####	[(TECH) BRK441: From concept to creation with Azure AI Studio](https://github.com/microsoft/aitour-concept-to-creation-ai-studio)
 -  ####	[(TECH) BRK442: Infusing an eCommerce app with AI​](https://github.com/microsoft/aitour-ecommerce-app-with-ai) 
 -  ####	[(TECH) BRK443: Intro to Azure OpenAI Assistants](https://github.com/microsoft/aitour-azure-openai-assistants)
--  ####	[(WKSH) WRK540: Interacting with large language models](https://github.com/microsoft/aitour-interact-with-llms) (Coming soon)
+-  ####	[(WKSH) WRK540: Interacting with large language models](https://github.com/microsoft/aitour-interact-with-llms)
 
 ### Track 5: Advanced: Taking AI Orchestration, Tooling, and Foundations to Production
 
