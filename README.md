@@ -33,7 +33,6 @@ Each individual session and workshop below is hyperlinked to it's own GitHub rep
 ### Track 1: Microsoft Copilot
 
 - #### (DM) BRK310: Unlock value and opportunity with Microsoft Copilot (Coming soon)
-- #### (DM) BRK311: Customer fireside chat with local customers using Copilot (Coming soon)
 - #### [(TECH) BRK410: Copilot Implementation Essentials](https://github.com/microsoft/aitour-copilot-implementation-essentials)
 - #### [(WKSH) WRK510: Data, security and compliance practices for Copilot](https://github.com/microsoft/aitour-copilot-security-practices)
 
