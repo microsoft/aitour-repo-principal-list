@@ -30,13 +30,13 @@ Each individual session and workshop below is hyperlinked to it's own GitHub rep
 
 </div>
 
-### Track 1: Microsoft Copilot
+### Microsoft Copilot
 
 - #### (DM) BRK310: Unlock value and opportunity with Microsoft Copilot (Coming soon)
 - #### [(TECH) BRK410: Copilot Implementation Essentials](https://github.com/microsoft/aitour-copilot-implementation-essentials)
 - #### [(WKSH) WRK510: Data, security and compliance practices for Copilot](https://github.com/microsoft/aitour-copilot-security-practices)
 
-### Track 2: AI Safety and Security
+### AI Safety and Security
 
 - #### (DM) BRK320: Secure your future in the age of AI (Coming soon)
 - #### [(TECH) BRK420: Securing AI applications on Azure](https://github.com/microsoft/aitour-securing-ai-apps-on-azure)
@@ -44,7 +44,7 @@ Each individual session and workshop below is hyperlinked to it's own GitHub rep
 - #### [(TECH) BRK422: GitHub Advanced Security: Securing your Workflow](https://github.com/microsoft/aitour-github-advanced-security-workflow)
 - #### [(TECH) BRK423: Forging modern security with Copilot for Security​​](https://github.com/microsoft/aitour-cybersecurity-posture-with-copilot)
 
-### Track 3: Copilot Extensibility
+### Copilot Extensibility
 
  - ####	(DM) BRK330: Innovate with AI and Low Code: Power Platform (Coming soon)
  - ####	(DM) BRK331: Applying the functional blueprint to transform your business (Coming soon)
@@ -54,7 +54,7 @@ Each individual session and workshop below is hyperlinked to it's own GitHub rep
  - ####	[(TECH) BRK433: Developers guide to customizing Microsoft Copilot](https://github.com/microsoft/aitour-customizing-microsoft-copilot)
  - ####	[(WKSH) WRK530: Build and extend copilots with Copilot Studio](https://github.com/microsoft/aitour-building-copilots-with-copilot-studio)
 
-### Track 4: Introduction: AI Orchestration, Tooling, and Foundation
+### Introduction: AI Orchestration, Tooling, and Foundation
 
 -  ####	(DM) BRK340: Navigating AI transformation with Microsoft Learn (Coming soon)
 -  ####	[(TECH) BRK440: The foundation of generative AI in Azure](https://github.com/microsoft/aitour-generative-ai-in-azure)
@@ -63,7 +63,7 @@ Each individual session and workshop below is hyperlinked to it's own GitHub rep
 -  ####	[(TECH) BRK443: Intro to Azure OpenAI Assistants](https://github.com/microsoft/aitour-azure-openai-assistants)
 -  ####	[(WKSH) WRK540: Interacting with large language models](https://github.com/microsoft/aitour-interact-with-llms)
 
-### Track 5: Advanced: Taking AI Orchestration, Tooling, and Foundations to Production
+### Advanced: Taking AI Orchestration, Tooling, and Foundations to Production
 
 - #### 	(DM) BRK 350: The business impact of intelligent apps (Coming soon)
 - #### 	[(TECH) BRK450: Prompty, AI Studio and practical E2E development](https://github.com/microsoft/aitour-e2e-dev-with-prompty-and-ai-studio)
@@ -73,7 +73,7 @@ Each individual session and workshop below is hyperlinked to it's own GitHub rep
 - #### 	[(WKSH) WRK550: Build a retail copilot code-first on Azure AI](https://github.com/microsoft/aitour-build-a-copilot-on-azure-ai)
 - #### 	[(WKSH) WRK551: Build a multi-tasking assistant with Azure OpenAI](https://github.com/microsoft/aitour-writing-assistant-with-azure-openai)
 
-### Track 6: Your Data
+### Your Data
 
 - #### 	(DM) BRK 360: Activate your data and analytics for AI innovation (Coming soon)
 - #### 	[(TECH) BRK460: Microsoft Fabric: What's new and what's next](https://github.com/microsoft/aitour-whats-new-with-fabric)
@@ -82,7 +82,7 @@ Each individual session and workshop below is hyperlinked to it's own GitHub rep
 - #### 	[(TECH) BRK463: Production-ready RAG with Azure AI Search](https://github.com/microsoft/aitour-rag-with-ai-search)
 - #### 	[(WKSH) WRK560: Microsoft Fabric: Start with Real-Time Intelligence](https://github.com/microsoft/aitour-get-started-with-fabric)
  
-### Track 7: AI Infrastructure
+### AI Infrastructure
 
 - #### 	(DM) BRK370: Pave the path to AI-readiness with Azure (Coming soon)
 - #### 	[(TECH) BRK470: Leverage cloud native infra for intelligent apps](https://github.com/microsoft/aitour-cloud-native-apps-with-azure-ai-and-aks)
