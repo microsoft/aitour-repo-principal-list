@@ -65,7 +65,7 @@ Each individual session and workshop below is hyperlinked to it's own GitHub rep
 
 ### Advanced: Taking AI Orchestration, Tooling, and Foundations to Production
 
-- #### 	(DM) BRK 350: The business impact of intelligent apps (Coming soon)
+- #### 	[(DM) BRK 350: The business impact of intelligent apps](https://github.com/microsoft/aitour-buisness-impact-of-intelligent-apps)
 - #### 	[(TECH) BRK450: Prompty, AI Studio and practical E2E development](https://github.com/microsoft/aitour-e2e-dev-with-prompty-and-ai-studio)
 - #### 	[(TECH) BRK451: Code-first LLMOps from prototype to productionv](https://github.com/microsoft/aitour-llmops-with-gen-ai-tools)
 - #### 	[(TECH) BRK452: Operationalize AI responsibly with Azure AI Studio](https://github.com/microsoft/aitour-operate-ai-responsibly-with-ai-studio)
@@ -75,7 +75,7 @@ Each individual session and workshop below is hyperlinked to it's own GitHub rep
 
 ### Your Data
 
-- #### 	(DM) BRK 360: Activate your data and analytics for AI innovation (Coming soon)
+- #### 	[(DM) BRK 360: Activate your data and analytics for AI innovation](https://github.com/microsoft/aitour-data-analytics-for-ai-innovation)
 - #### 	[(TECH) BRK460: Microsoft Fabric: What's new and what's next](https://github.com/microsoft/aitour-whats-new-with-fabric)
 - #### 	[(TECH) BRK461: Next gen AI apps with databases at scale anywhere](https://github.com/microsoft/aitour-ai-apps-with-scalable-database)
 - #### 	[(TECH) BRK462: Microsoft Fabric: Reimagine Real-Time Intelligence](https://github.com/microsoft/aitour-reimagine-fabric-intelligence)
@@ -84,7 +84,7 @@ Each individual session and workshop below is hyperlinked to it's own GitHub rep
  
 ### AI Infrastructure
 
-- #### 	(DM) BRK370: Pave the path to AI-readiness with Azure (Coming soon)
+- #### 	[(DM) BRK370: Pave the path to AI-readiness with Azure](https://github.com/microsoft/aitour-ai-readiness-with-azure)
 - #### 	[(TECH) BRK470: Leverage cloud native infra for intelligent apps](https://github.com/microsoft/aitour-cloud-native-apps-with-azure-ai-and-aks)
 - #### 	[(TECH) BRK471: Leverage AI for infrastructure management](https://github.com/microsoft/aitour-leveraging-ai-for-infrastructure-managaement)
 - #### 	[(TECH) BRK472: Preparing for your organization's AI workloads​](https://github.com/microsoft/aitour-preparing-for-ai-workloads)
