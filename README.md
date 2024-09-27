@@ -56,7 +56,6 @@ Each individual session and workshop below is hyperlinked to it's own GitHub rep
 
 ### Introduction: AI Orchestration, Tooling, and Foundation
 
--  ####	(DM) BRK340: Navigating AI transformation with Microsoft Learn (Coming soon)
 -  ####	[(TECH) BRK440: The foundation of generative AI in Azure](https://github.com/microsoft/aitour-generative-ai-in-azure)
 -  ####	[(TECH) BRK441: From concept to creation with Azure AI Studio](https://github.com/microsoft/aitour-concept-to-creation-ai-studio)
 -  ####	[(TECH) BRK442: Infusing an eCommerce app with AI​](https://github.com/microsoft/aitour-ecommerce-app-with-ai) 
