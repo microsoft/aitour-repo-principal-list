@@ -32,13 +32,13 @@ Each individual session and workshop below is hyperlinked to it's own GitHub rep
 
 ### Microsoft Copilot
 
-- #### (DM) BRK310: Unlock value and opportunity with Microsoft Copilot (Coming soon)
+- #### [(DM) BRK310: AI at Work: Unlock value and opportunity with Microsoft Copilot](https://github.com/microsoft/aitour-unlock-value-with-copilot)
 - #### [(TECH) BRK410: Copilot Implementation Essentials](https://github.com/microsoft/aitour-copilot-implementation-essentials)
 - #### [(WKSH) WRK510: Data, security and compliance practices for Copilot](https://github.com/microsoft/aitour-copilot-security-practices)
 
 ### AI Safety and Security
 
-- #### (DM) BRK320: Secure your future in the age of AI (Coming soon)
+- #### [(DM) BRK320: Secure your future in the age of AI](https://github.com/microsoft/aitour-secure-future-in-ai-age)
 - #### [(TECH) BRK420: Securing AI applications on Azure](https://github.com/microsoft/aitour-securing-ai-apps-on-azure)
 - #### [(TECH) BRK421: Data security for AI](https://github.com/microsoft/aitour-data-security-for-ai)
 - #### [(TECH) BRK422: GitHub Advanced Security: Securing your Workflow](https://github.com/microsoft/aitour-github-advanced-security-workflow)
@@ -46,8 +46,8 @@ Each individual session and workshop below is hyperlinked to it's own GitHub rep
 
 ### Copilot Extensibility
 
- - ####	(DM) BRK330: Innovate with AI and Low Code: Power Platform (Coming soon)
- - ####	(DM) BRK331: Applying the functional blueprint to transform your business (Coming soon)
+ - ####	[(DM) BRK330: Innovate with AI and Low Code: Power Platform](https://github.com/microsoft/aitour-ai-and-low-code-innovation)
+ - ####	[(DM) BRK331:Applying the functional blueprint to transform your business](https://github.com/microsoft/aitour-blueprint-to-transform-business)
  - ####	[(TECH) BRK430: Build and customize copilots with Copilot Studio](https://github.com/microsoft/aitour-copilot-studio-agents-and-experiences)
  - ####	[(TECH) BRK431: Essential prompting for GitHub Copilot in VS Code](https://github.com/microsoft/aitour-github-copilot-can-do-that)
  - ####	[(TECH) BRK432: Advanced Coding: Visual Studio & GitHub Copilot](https://github.com/microsoft/aitour-coding-mastery-with-github-copilot)
@@ -64,7 +64,7 @@ Each individual session and workshop below is hyperlinked to it's own GitHub rep
 
 ### Advanced: Taking AI Orchestration, Tooling, and Foundations to Production
 
-- #### 	[(DM) BRK 350: The business impact of intelligent apps](https://github.com/microsoft/aitour-buisness-impact-of-intelligent-apps)
+- #### 	[(DM) BRK350: The business impact of intelligent apps](https://github.com/microsoft/aitour-buisness-impact-of-intelligent-apps)
 - #### 	[(TECH) BRK450: Prompty, AI Studio and practical E2E development](https://github.com/microsoft/aitour-e2e-dev-with-prompty-and-ai-studio)
 - #### 	[(TECH) BRK451: Code-first LLMOps from prototype to productionv](https://github.com/microsoft/aitour-llmops-with-gen-ai-tools)
 - #### 	[(TECH) BRK452: Operationalize AI responsibly with Azure AI Studio](https://github.com/microsoft/aitour-operate-ai-responsibly-with-ai-studio)
@@ -74,7 +74,7 @@ Each individual session and workshop below is hyperlinked to it's own GitHub rep
 
 ### Your Data
 
-- #### 	[(DM) BRK 360: Activate your data and analytics for AI innovation](https://github.com/microsoft/aitour-data-analytics-for-ai-innovation)
+- #### 	[(DM) BRK360: Activate your data and analytics for AI innovation](https://github.com/microsoft/aitour-data-analytics-for-ai-innovation)
 - #### 	[(TECH) BRK460: Microsoft Fabric: What's new and what's next](https://github.com/microsoft/aitour-whats-new-with-fabric)
 - #### 	[(TECH) BRK461: Next gen AI apps with databases at scale anywhere](https://github.com/microsoft/aitour-ai-apps-with-scalable-database)
 - #### 	[(TECH) BRK462: Microsoft Fabric: Reimagine Real-Time Intelligence](https://github.com/microsoft/aitour-reimagine-fabric-intelligence)
