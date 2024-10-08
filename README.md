@@ -10,6 +10,11 @@ This free, one-day and in-person experience offers AI thought leadership, sessio
 
 Ready to join this innovation revolution? Visit the [Microsoft AI Tour website](https://aitour.microsoft.com/) and request to attend the Tour when it comes to your city.
 
+## Microsoft AI Discord Community 
+Join our Microsoft AI Discord community to continue the discussion and learning 
+
+[![Azure AI Community Discord](https://dcbadge.vercel.app/api/server/ByRwuEEgH4)](https://discord.com/invite/ByRwuEEgH4?WT.mc_id=aiml-00001-leestott)
+
 ## Breakout Sessions and Workshops
 
 Whether you’re a senior business leader or a technical practitioner, you’ll find valuable insights and actionable solutions.
@@ -66,7 +71,7 @@ Each individual session and workshop below is hyperlinked to it's own GitHub rep
 
 - #### 	[(DM) BRK350: The business impact of intelligent apps](https://github.com/microsoft/aitour-buisness-impact-of-intelligent-apps)
 - #### 	[(TECH) BRK450: Prompty, AI Studio and practical E2E development](https://github.com/microsoft/aitour-e2e-dev-with-prompty-and-ai-studio)
-- #### 	[(TECH) BRK451: Code-first LLMOps from prototype to productionv](https://github.com/microsoft/aitour-llmops-with-gen-ai-tools)
+- #### 	[(TECH) BRK451: Code-first GenAIOps from prototype to production](https://github.com/microsoft/aitour-llmops-with-gen-ai-tools)
 - #### 	[(TECH) BRK452: Operationalize AI responsibly with Azure AI Studio](https://github.com/microsoft/aitour-operate-ai-responsibly-with-ai-studio)
 - #### 	[(TECH) BRK453: Explore cutting-edge models: LLMs, SLMs and more](https://github.com/microsoft/aitour-exploring-cutting-edge-models)
 - #### 	[(WKSH) WRK550: Build a retail copilot code-first on Azure AI](https://github.com/microsoft/aitour-build-a-copilot-on-azure-ai)
