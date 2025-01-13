@@ -61,11 +61,12 @@ Each individual session and workshop below is hyperlinked to it's own GitHub rep
 
 ### Introduction: AI Orchestration, Tooling, and Foundation
 
--  ####	[(TECH) BRK440: The foundation of generative AI in Azure](https://github.com/microsoft/aitour-generative-ai-in-azure)
--  ####	[(TECH) BRK441: From concept to creation with Azure AI Studio](https://github.com/microsoft/aitour-concept-to-creation-ai-studio)
+-  ####	[(TECH) BRK440: Getting started with Generative AI in Azure](https://github.com/microsoft/aitour-generative-ai-in-azure)
+-  ####	[(TECH) BRK441: Build AI Solutions with Azure AI Foundry](https://github.com/microsoft/aitour-concept-to-creation-ai-studio)
 -  ####	[(TECH) BRK442: Infusing an eCommerce app with AI​](https://github.com/microsoft/aitour-ecommerce-app-with-ai) 
--  ####	[(TECH) BRK443: Introduction to Azure AI Agent Service](https://github.com/microsoft/aitour-azure-openai-assistants)
--  ####	[(WKSH) WRK540: Interacting with multimodal models in Azure AI Foundry](https://github.com/microsoft/aitour-interact-with-llms)
+-  ####	[(TECH) BRK443: Build your code-first app with Azure AI Agent Service](https://github.com/microsoft/aitour-azure-openai-assistants)
+-  #### [(TECH) BRK444: Getting started with AI Agents in Azure](https://github.com/microsoft/aitour-getting-started-with-ai-agents) 
+-  ####	[(WKSH) WRK540: Interacting with models and agents in Azure AI Foundry](https://github.com/microsoft/aitour-interact-with-llms)
 
 ### Advanced: Taking AI Orchestration, Tooling, and Foundations to Production
 
