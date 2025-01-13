@@ -71,9 +71,9 @@ Each individual session and workshop below is hyperlinked to it's own GitHub rep
 ### Advanced: Taking AI Orchestration, Tooling, and Foundations to Production
 
 - #### 	[(DM) BRK350: The business impact of intelligent apps](https://github.com/microsoft/aitour-buisness-impact-of-intelligent-apps)
-- #### 	[(TECH) BRK450: Prompty, AI Studio and practical E2E development](https://github.com/microsoft/aitour-e2e-dev-with-prompty-and-ai-studio)
+- #### 	[(TECH) BRK450: Prompty, AI Foundry and practical E2E development](https://github.com/microsoft/aitour-e2e-dev-with-prompty-and-ai-studio)
 - #### 	[(TECH) BRK451: Code-first GenAIOps from prototype to production](https://github.com/microsoft/aitour-llmops-with-gen-ai-tools)
-- #### 	[(TECH) BRK452: Operationalize AI responsibly with Azure AI Studio](https://github.com/microsoft/aitour-operate-ai-responsibly-with-ai-studio)
+- #### 	[(TECH) BRK452: Trustworthy AI: Advanced AI risk evaluation and mitigation](https://github.com/microsoft/aitour-operate-ai-responsibly-with-ai-studio)
 - #### 	[(TECH) BRK453: Explore cutting-edge models: LLMs, SLMs and more](https://github.com/microsoft/aitour-exploring-cutting-edge-models)
 - #### 	[(WKSH) WRK550: Build a retail copilot code-first on Azure AI](https://github.com/microsoft/aitour-build-a-copilot-on-azure-ai)
 - #### 	[(WKSH) WRK551: Build a multi-tasking assistant with Azure OpenAI](https://github.com/microsoft/aitour-writing-assistant-with-azure-openai)
