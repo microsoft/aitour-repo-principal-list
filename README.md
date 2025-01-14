@@ -57,7 +57,7 @@ Each individual session and workshop below is hyperlinked to it's own GitHub rep
  - ####	[(TECH) BRK431: Essential prompting for GitHub Copilot in VS Code](https://github.com/microsoft/aitour-github-copilot-can-do-that)
  - ####	[(TECH) BRK432: Advanced Coding: Visual Studio & GitHub Copilot](https://github.com/microsoft/aitour-coding-mastery-with-github-copilot)
  - ####	[(TECH) BRK433: Developers guide to customizing Microsoft Copilot](https://github.com/microsoft/aitour-customizing-microsoft-copilot)
- - ####	[(WKSH) WRK530: Build and extend copilots with Copilot Studio](https://github.com/microsoft/aitour-building-copilots-with-copilot-studio)
+ - ####	[(WKSH) WRK530: Build and extend agents with Microsoft Copilot Studio](https://github.com/microsoft/aitour-building-copilots-with-copilot-studio)
 
 ### Introduction: AI Orchestration, Tooling, and Foundation
 
@@ -75,7 +75,7 @@ Each individual session and workshop below is hyperlinked to it's own GitHub rep
 - #### 	[(TECH) BRK451: Code-first GenAIOps from prototype to production](https://github.com/microsoft/aitour-llmops-with-gen-ai-tools)
 - #### 	[(TECH) BRK452: Trustworthy AI: Advanced AI risk evaluation and mitigation](https://github.com/microsoft/aitour-operate-ai-responsibly-with-ai-studio)
 - #### 	[(TECH) BRK453: Explore cutting-edge models: LLMs, SLMs and more](https://github.com/microsoft/aitour-exploring-cutting-edge-models)
-- #### 	[(WKSH) WRK550: Build a retail copilot code-first on Azure AI](https://github.com/microsoft/aitour-build-a-copilot-on-azure-ai)
+- #### 	[(WKSH) WRK550: Build a copilot code-first with Azure AI Foundry](https://github.com/microsoft/aitour-build-a-copilot-on-azure-ai)
 - #### 	[(WKSH) WRK551: Build a multi-tasking assistant with Azure OpenAI](https://github.com/microsoft/aitour-writing-assistant-with-azure-openai)
 
 ### Your Data
