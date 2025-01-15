@@ -77,6 +77,7 @@ Each individual session and workshop below is hyperlinked to it's own GitHub rep
 - #### 	[(TECH) BRK453: Explore cutting-edge models: LLMs, SLMs and more](https://github.com/microsoft/aitour-exploring-cutting-edge-models)
 - #### 	[(WKSH) WRK550: Build a copilot code-first with Azure AI Foundry](https://github.com/microsoft/aitour-build-a-copilot-on-azure-ai)
 - #### 	[(WKSH) WRK551: Build a multi-tasking assistant with Azure OpenAI](https://github.com/microsoft/aitour-writing-assistant-with-azure-openai)
+- ####  [(WKSH) WRK552: Build Your First Agent with Azure AI Agent Service](https://github.com/microsoft/aitour-build-your-first-agent-with-azure-ai-agent-service)
 
 ### Your Data
 
