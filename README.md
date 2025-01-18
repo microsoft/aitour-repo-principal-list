@@ -63,7 +63,6 @@ Each individual session and workshop below is hyperlinked to it's own GitHub rep
 
 -  ####	[(TECH) BRK440: Getting started with Generative AI in Azure](https://github.com/microsoft/aitour-generative-ai-in-azure)
 -  ####	[(TECH) BRK441: Build AI Solutions with Azure AI Foundry](https://github.com/microsoft/aitour-concept-to-creation-ai-studio)
--  ####	[(TECH) BRK442: Infusing an eCommerce app with AI​](https://github.com/microsoft/aitour-ecommerce-app-with-ai) 
 -  ####	[(TECH) BRK443: Build your code-first app with Azure AI Agent Service](https://github.com/microsoft/aitour-azure-openai-assistants)
 -  #### [(TECH) BRK444: Getting started with AI Agents in Azure](https://github.com/microsoft/aitour-getting-started-with-ai-agents) 
 -  ####	[(WKSH) WRK540: Interacting with models and agents in Azure AI Foundry](https://github.com/microsoft/aitour-interact-with-llms)
@@ -76,7 +75,6 @@ Each individual session and workshop below is hyperlinked to it's own GitHub rep
 - #### 	[(TECH) BRK452: Trustworthy AI: Advanced AI risk evaluation and mitigation](https://github.com/microsoft/aitour-operate-ai-responsibly-with-ai-studio)
 - #### 	[(TECH) BRK453: Explore cutting-edge models: LLMs, SLMs and more](https://github.com/microsoft/aitour-exploring-cutting-edge-models)
 - #### 	[(WKSH) WRK550: Build a copilot code-first with Azure AI Foundry](https://github.com/microsoft/aitour-build-a-copilot-on-azure-ai)
-- #### 	[(WKSH) WRK551: Build a multi-tasking assistant with Azure OpenAI](https://github.com/microsoft/aitour-writing-assistant-with-azure-openai)
 - ####  [(WKSH) WRK552: Build Your First Agent with Azure AI Agent Service](https://github.com/microsoft/aitour-build-your-first-agent-with-azure-ai-agent-service)
 
 ### Your Data
@@ -95,3 +93,7 @@ Each individual session and workshop below is hyperlinked to it's own GitHub rep
 - #### 	[(TECH) BRK471: Leverage AI for infrastructure management](https://github.com/microsoft/aitour-leveraging-ai-for-infrastructure-managaement)
 - #### 	[(TECH) BRK472: Preparing for your organization's AI workloads​](https://github.com/microsoft/aitour-preparing-for-ai-workloads)
 - #### 	[(TECH) BRK473: Optimizing your AI costs​](https://github.com/microsoft/aitour-opimizing-your-ai-costs)
+
+### Deprecated Sessions
+- #### 	[(WKSH) WRK551: Build a multi-tasking assistant with Azure OpenAI](https://github.com/microsoft/aitour-writing-assistant-with-azure-openai)
+- ####	[(TECH) BRK442: Infusing an eCommerce app with AI​](https://github.com/microsoft/aitour-ecommerce-app-with-ai) 
