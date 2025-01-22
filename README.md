@@ -69,7 +69,8 @@ Each individual session and workshop below is hyperlinked to it's own GitHub rep
 
 ### Advanced: Taking AI Orchestration, Tooling, and Foundations to Production
 
-- #### 	[(DM) BRK350: The business impact of intelligent apps](https://github.com/microsoft/aitour-buisness-impact-of-intelligent-apps)
+- #### 	[(DM) BRK350: Delivering AI with impact through intelligent apps](https://github.com/microsoft/aitour-buisness-impact-of-intelligent-apps)
+- #### 	[(DM) BRK351: Azure Open AI Service: Customizing trustworthy Gen AI systems at scale](https://github.com/microsoft/)
 - #### 	[(TECH) BRK450: Prompty, AI Foundry and practical E2E development](https://github.com/microsoft/aitour-e2e-dev-with-prompty-and-ai-studio)
 - #### 	[(TECH) BRK451: Code-first GenAIOps from prototype to production](https://github.com/microsoft/aitour-llmops-with-gen-ai-tools)
 - #### 	[(TECH) BRK452: Trustworthy AI: Advanced AI risk evaluation and mitigation](https://github.com/microsoft/aitour-operate-ai-responsibly-with-ai-studio)
@@ -88,7 +89,7 @@ Each individual session and workshop below is hyperlinked to it's own GitHub rep
  
 ### AI Infrastructure
 
-- #### 	[(DM) BRK370: Pave the path to AI-readiness with Azure](https://github.com/microsoft/aitour-ai-readiness-with-azure)
+- #### 	[(DM) BRK370: Cloud infrastructure for AI transformation](https://github.com/microsoft/aitour-ai-readiness-with-azure)
 - #### 	[(TECH) BRK470: Leverage cloud native infra for intelligent apps](https://github.com/microsoft/aitour-cloud-native-apps-with-azure-ai-and-aks)
 - #### 	[(TECH) BRK471: Leverage AI for infrastructure management](https://github.com/microsoft/aitour-leveraging-ai-for-infrastructure-managaement)
 - #### 	[(TECH) BRK472: Preparing for your organization's AI workloads​](https://github.com/microsoft/aitour-preparing-for-ai-workloads)
