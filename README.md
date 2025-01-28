@@ -95,6 +95,10 @@ Each individual session and workshop below is hyperlinked to it's own GitHub rep
 - #### 	[(TECH) BRK472: Preparing for your organization's AI workloads​](https://github.com/microsoft/aitour-preparing-for-ai-workloads)
 - #### 	[(TECH) BRK473: Optimizing your AI costs​](https://github.com/microsoft/aitour-opimizing-your-ai-costs)
 
+### Theatre Sessions
+
+- ####  [(TECH) DIS188: Azure AI Foundry Models as a Service 15-minute theatre talk](https://github.com/microsoft/aitour-models-as-a-service-15-minute-theatre-talk)
+
 ### Deprecated Sessions
 - #### 	[(WKSH) WRK551: Build a multi-tasking assistant with Azure OpenAI](https://github.com/microsoft/aitour-writing-assistant-with-azure-openai)
 - ####	[(TECH) BRK442: Infusing an eCommerce app with AI​](https://github.com/microsoft/aitour-ecommerce-app-with-ai) 
