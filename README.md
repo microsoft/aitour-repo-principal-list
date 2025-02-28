@@ -98,6 +98,7 @@ Each individual session and workshop below is hyperlinked to it's own GitHub rep
 ### Theatre Sessions
 
 - ####  [(TECH) DIS188: Azure AI Foundry Models as a Service 15-minute theatre talk](https://github.com/microsoft/aitour-models-as-a-service-15-minute-theatre-talk)
+- ####  [(TECH) DIS192: Azure AI Agent Service Introduction 15-minute theatre talk](https://github.com/microsoft/aitour-ai-agents-theater-session)
 
 ### Deprecated Sessions
 - #### 	[(WKSH) WRK551: Build a multi-tasking assistant with Azure OpenAI](https://github.com/microsoft/aitour-writing-assistant-with-azure-openai)
